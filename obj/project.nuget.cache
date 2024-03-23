@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "mJ7JbjsW8pnbLicGIM0Zyq9L8MLE1WZticeNAJRkqg05XPydr+C5VxHxHjqjmUc7QM6/vmzGA0WppsAvyuwZtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cesar\\Desktop\\Nao mexe pela mor em\\BairroConnectAPI\\BairroConnectAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cesar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\Cesar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Cesar\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Cesar\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Cesar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Cesar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Cesar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
